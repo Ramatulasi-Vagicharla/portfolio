@@ -10,7 +10,7 @@ Step into my **digital universe**, where technology meets creativity. This space
 ✔️ Sleek and responsive UI designs  
 ✔️ Full-stack applications powered by Java, Spring Boot, and React.js  
 ✔️ Scalable backend solutions optimized for performance  
-✔️ Innovative projects blending technology with real-world impact  
+✔️ Innovative projects blending technology with real-world impact
 
 ### 🛠️ Tech Stack  
 🔹 Java | Spring Boot | SQL | React.js | Angular | Git | REST APIs  
