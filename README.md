@@ -1,4 +1,4 @@
-# 🚀 Welcome to My Digital Playground!  
+# 🚀 Welcome to My Digital Playground!
 
 ## 👋 Hey there, I'm Rama Tulasi!  
 Crafting seamless user experiences, optimizing backend performance, and turning ideas into reality—one line of code at a time.  
@@ -13,7 +13,7 @@ Step into my **digital universe**, where technology meets creativity. This space
 ✔️ Innovative projects blending technology with real-world impact
 
 ### 🛠️ Tech Stack  
-🔹 Java | Spring Boot | SQL | React.js | Angular | Git | REST APIs  
+🔹 Java | Spring Boot | SQL | React.js | Angular | Git | REST APIs  | Python
 
 ### 🚀 Let's Build the Future Together!  
 Connect with me and explore the world of **cutting-edge development and innovation.**  
